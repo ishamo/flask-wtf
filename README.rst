@@ -10,6 +10,12 @@ Flask-WTF
 
 Simple integration of Flask and WTForms, including CSRF, file upload, and reCAPTCHA.
 
+
+TODO
+------
+* delay validate progress for campat `HTTP PUT` method.
+
+
 Links
 -----
 
